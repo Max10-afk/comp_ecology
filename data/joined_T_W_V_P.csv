@@ -1,0 +1,66 @@
+,WHO Region,ISO3,WHO Country Name,city,Measurement Year,PM2.5 (μg/m3),PM10 (μg/m3),NO2 (μg/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%),Reference,Number and type of monitoring stations,Version of the database,Status,V,T,W
+0,European Region,DEU,Germany,Berlin,2010,21.33,28.62,32.89,97.8765,97.9011428571428,99.063875,European Environment Agency (downloaded in 2021),"7 rural, 2 suburban, 25 urban",2022,,906.291723024,9.86266735534097,1261864625.44194
+1,European Region,DEU,Germany,Berlin,2013,16.37,24.08,31.45,,,98.954765981875,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+2,European Region,DEU,Germany,Berlin,2014,20.55,27.28,31.45,,,98.969035388125,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+3,European Region,DEU,Germany,Berlin,2015,16.86,23.34,30.49,,,99.04252283125,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+4,European Region,DEU,Germany,Berlin,2016,16.47,23.16,30.37,,,99.430071721875,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+5,European Region,DEU,Germany,Berlin,2017,15.62,22.49,29.14,,,99.02968036625,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+6,European Region,DEU,Germany,Berlin,2018,16.14,23.74,29.83,,,99.1964738711111,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+7,European Region,DEU,Germany,Berlin,2019,13.74,19.57,27.56,,,99.4148041331578,European Environment Agency (downloaded in 2021),,2022,,906.291723024,9.86266735534097,1261864625.44194
+8,European Region,DEU,Germany,Bonn,2010,,26.07,29.83,,95.845,94.418,European Environment Agency (downloaded in 2021),2 suburban,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+9,European Region,DEU,Germany,Bonn,2013,,20.87,41.83,,,98.37519026,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+10,European Region,DEU,Germany,Bonn,2014,,19.97,41.17,,,97.0547945233333,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+11,European Region,DEU,Germany,Bonn,2015,,19.72,41.03,,,86.8074581433333,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+12,European Region,DEU,Germany,Bonn,2016,,17.43,39.55,,,98.83120826,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+13,European Region,DEU,Germany,Bonn,2017,,16.9,37.63,,,88.4474885833333,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+14,European Region,DEU,Germany,Bonn,2018,,19.21,39.02,,,98.0365296833333,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+15,European Region,DEU,Germany,Bonn,2019,,15.18,33.52,,,98.2496194833333,European Environment Agency (downloaded in 2021),,2022,,86.5084652033333,10.4262828006088,71342013.5131128
+16,European Region,DEU,Germany,Bremen,2010,15.65,22.61,27.35,97.911,91.8113333333333,89.5435,European Environment Agency (downloaded in 2021),8 urban,2022,,1460.109486058,10.0028173066846,391558779.189452
+17,European Region,DEU,Germany,Bremen,2013,12.73,20.34,24.99,,,98.20585997,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+18,European Region,DEU,Germany,Bremen,2014,14.73,21.96,24.97,,,98.599695585,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+19,European Region,DEU,Germany,Bremen,2015,11.65,18.71,24.68,,,99.1971080666666,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+20,European Region,DEU,Germany,Bremen,2016,11.51,18.81,24.01,,,98.6243928366666,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+21,European Region,DEU,Germany,Bremen,2017,11.64,18.68,23.22,,,99.1362252666666,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+22,European Region,DEU,Germany,Bremen,2018,12.97,19.85,22.97,,,99.183789955,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+23,European Region,DEU,Germany,Bremen,2019,10.98,17.97,21.38,,,98.9745053283333,European Environment Agency (downloaded in 2021),,2022,,1460.109486058,10.0028173066846,391558779.189452
+24,European Region,DEU,Germany,Dresden,2010,19.31,27.93,37.57,98.9953333333333,93.4726,98.0976666666666,European Environment Agency (downloaded in 2021),11 urban,2022,,430.819578403333,9.11475116899968,226079056.843084
+25,European Region,DEU,Germany,Dresden,2013,17.14,24.51,,,,,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+26,European Region,DEU,Germany,Dresden,2014,17.25,24.94,34.72,,,98.8812785366666,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+27,European Region,DEU,Germany,Dresden,2015,14.14,22.1,33.14,,,99.19330289,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+28,European Region,DEU,Germany,Dresden,2016,13.4,20.95,31.59,,,99.03612629,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+29,European Region,DEU,Germany,Dresden,2017,13.28,19.56,29.34,,,99.27321157,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+30,European Region,DEU,Germany,Dresden,2018,14.3,21.02,29.29,,,98.5312024366666,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+31,European Region,DEU,Germany,Dresden,2019,11.02,17.06,26.15,,,99.17047184,European Environment Agency (downloaded in 2021),,2022,,430.819578403333,9.11475116899968,226079056.843084
+32,European Region,DEU,Germany,Frankfurt,2010,20.75,31.99,46.29,99.189,98.904,96.541,European Environment Agency (downloaded in 2021),5 urban,2022,,253.724771214667,10.466157691444,151407593.342708
+33,European Region,DEU,Germany,Hamburg,2010,17.4,23.03,34.43,95.3426,97.5445,90.7952666666666,European Environment Agency (downloaded in 2021),"4 suburban, 26 urban",2022,,2750.63363296333,9.65657807720138,3120127503.21158
+34,European Region,DEU,Germany,Hamburg,2013,14.03,20.59,30.96,,,98.2547676617647,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+35,European Region,DEU,Germany,Hamburg,2014,15.52,22.76,30.45,,,98.3803384370588,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+36,European Region,DEU,Germany,Hamburg,2015,14.3,20.55,30.23,,,96.9856298688235,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+37,European Region,DEU,Germany,Hamburg,2016,14.01,18.96,31.67,,,99.057946265,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+38,European Region,DEU,Germany,Hamburg,2017,13.7,18.48,30.18,,,99.2511415526666,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+39,European Region,DEU,Germany,Hamburg,2018,13.21,21.0,29.63,,,99.2990867573333,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+40,European Region,DEU,Germany,Hamburg,2019,11.49,18.95,27.21,,,99.2016742773333,European Environment Agency (downloaded in 2021),,2022,,2750.63363296333,9.65657807720138,3120127503.21158
+41,European Region,DEU,Germany,Köln,2010,,25.71,43.4,,89.6423333333333,89.3756666666666,European Environment Agency (downloaded in 2021),"2 suburban, 4 urban",2022,,135.449316089333,10.6708187139756,92599486.6538831
+42,European Region,DEU,Germany,Köln,2013,,,46.6,,,99.5765877954545,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+43,European Region,DEU,Germany,Köln,2014,,,47.05,,,99.0867579911111,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+44,European Region,DEU,Germany,Köln,2015,,,44.76,,,82.904109587,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+45,European Region,DEU,Germany,Köln,2016,,,44.75,,,98.60655738,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+46,European Region,DEU,Germany,Köln,2017,,,42.88,,,84.93150685,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+47,European Region,DEU,Germany,Köln,2018,,,42.24,,,97.9312531711111,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+48,European Region,DEU,Germany,Köln,2019,,,37.03,,,100.0,European Environment Agency (downloaded in 2021),,2022,,135.449316089333,10.6708187139756,92599486.6538831
+49,European Region,DEU,Germany,Leipzig,2010,18.92,28.17,38.14,97.123,97.5274,98.7406666666666,European Environment Agency (downloaded in 2021),10 urban,2022,,304.171333461333,9.99417847144247,194875311.052031
+50,European Region,DEU,Germany,Leipzig,2013,15.79,25.44,,,,,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+51,European Region,DEU,Germany,Leipzig,2014,16.35,25.79,31.3,,,98.71004566,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+52,European Region,DEU,Germany,Leipzig,2015,13.62,22.84,33.07,,,99.06392694,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+53,European Region,DEU,Germany,Leipzig,2016,13.13,21.72,33.43,,,98.85777171,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+54,European Region,DEU,Germany,Leipzig,2017,12.81,20.4,30.82,,,99.3835616433333,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+55,European Region,DEU,Germany,Leipzig,2018,13.69,22.8,32.15,,,99.2199391133333,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+56,European Region,DEU,Germany,Leipzig,2019,10.56,18.15,27.38,,,99.4520547966666,European Environment Agency (downloaded in 2021),,2022,,304.171333461333,9.99417847144247,194875311.052031
+57,European Region,DEU,Germany,Stuttgart,2010,20.98,28.75,67.27,97.1686666666666,99.4035,95.201,European Environment Agency (downloaded in 2021),16 urban,2022,,346.676089003333,9.88531469920403,16919764.6985343
+58,European Region,DEU,Germany,Stuttgart,2013,17.21,27.54,51.64,,95.61643836,95.61643836,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+59,European Region,DEU,Germany,Stuttgart,2014,14.99,25.68,61.48,,100.0,98.200913242,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+60,European Region,DEU,Germany,Stuttgart,2015,14.82,25.92,61.38,,,98.280821916,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+61,European Region,DEU,Germany,Stuttgart,2016,14.51,24.85,58.81,,,98.306010928,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+62,European Region,DEU,Germany,Stuttgart,2017,13.84,23.79,54.5,,,97.477168948,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+63,European Region,DEU,Germany,Stuttgart,2018,12.57,22.8,49.63,,,98.25570776,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
+64,European Region,DEU,Germany,Stuttgart,2019,11.43,21.09,41.54,,,97.630136988,European Environment Agency (downloaded in 2021),,2022,,346.676089003333,9.88531469920403,16919764.6985343
