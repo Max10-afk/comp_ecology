@@ -1,0 +1,352 @@
+﻿"State / Measuring network";"Station code";"Station name";"Station setting";"Station type";"Annual mean value in µg/m³";"Number of daily mean values above 50 µg/m³"
+Berlin;DEBE014;"Berlin Charlottenburg-Stadtautobahn (Sondermessstation)";"urban area";traffic;40;89
+Berlin;DEBE015;"B Tiergarten-Bachstraße";"urban area";traffic;30;50
+Berlin;DEBE044;"B Mitte-Parochialstr.";"urban area";traffic;34;54
+Berlin;DEBE061;"Berlin Schildhornstraße";"urban area";traffic;38;82
+Berlin;DEBE065;"Berlin Frankfurter Allee";"urban area";traffic;40;78
+Baden-Württemberg;DEBW001;Karlsruhe-Mitte;"urban area";traffic;26;23
+Baden-Württemberg;DEBW002;Karlsruhe-West;"urban area";traffic;26;21
+Baden-Württemberg;DEBW011;Stuttgart-Zuffenhausen;"urban area";traffic;28;32
+Baden-Württemberg;DEBW080;"Karlsruhe Reinhold-Frank-Straße";"urban area";traffic;30;29
+Baden-Württemberg;DEBW096;Ulm-Straße;"urban area";traffic;28;24
+Baden-Württemberg;DEBW097;Freiburg-Straße;"urban area";traffic;26;24
+Baden-Württemberg;DEBW098;"Mannheim Friedrichsring";"urban area";traffic;33;43
+Baden-Württemberg;DEBW099;"Stuttgart Arnulf-Klett-Platz";"urban area";traffic;37;52
+Bavaria;DEBY001;Ansbach/Residenzstraße;"urban area";traffic;28;25
+Bavaria;DEBY006;Augsburg/Königsplatz;"urban area";traffic;44;104
+Bavaria;DEBY010;Bayreuth/Rathaus;"urban area";traffic;28;23
+Bavaria;DEBY014;Coburg/Lossaustraße;"urban area";traffic;29;35
+Bavaria;DEBY021;Ingolstadt/Rechbergstraße;"urban area";traffic;33;49
+Bavaria;DEBY028;"Kelheim/Regensburger Straße";"urban area";traffic;30;32
+Bavaria;DEBY033;Landshut/Podewilsstraße;"urban area";traffic;31;39
+Bavaria;DEBY035;"Lindau (Bodensee)/Friedrichshafener Straße";"urban area";traffic;31;49
+Bavaria;DEBY037;München/Stachus;"urban area";traffic;41;75
+Bavaria;DEBY038;München/Effnerplatz;"urban area";traffic;32;43
+Bavaria;DEBY040;München/Pasing;"urban area";traffic;35;51
+Bavaria;DEBY045;München/Westendstraße;"urban area";traffic;29;29
+Bavaria;DEBY053;Nürnberg/Bahnhof;"urban area";traffic;39;74
+Bavaria;DEBY054;Nürnberg/Ziegelsteinstraße;"urban area";traffic;34;40
+Bavaria;DEBY056;Fürth/Theresienstraße;"urban area";traffic;32;40
+Bavaria;DEBY059;Nürnberg/Langwasser;"urban area";traffic;32;37
+Bavaria;DEBY061;"Passau/Kleiner Exerzierplatz";"urban area";traffic;38;68
+Bavaria;DEBY063;Regensburg/Rathaus;"urban area";traffic;38;78
+Bavaria;DEBY076;Würzburg/Kardinal-Faulhaber-Platz;"urban area";traffic;33;54
+Bavaria;DEBY078;Würzburg/Theodor-Heuss-Damm;"urban area";traffic;25;19
+Bavaria;DEBY085;München/Luise-Kiesselbach-Platz;"urban area";traffic;35;49
+Bremen;DEHB006;Bremen-Dobben;"urban area";traffic;33;33
+Bremen;DEHB007;"Bremen Verkehr 2";"urban area";traffic;33;31
+Hesse;DEHE014;Kassel-Nord;"urban area";traffic;33;61
+Hesse;DEHE029;Dillenburg;"urban area";traffic;24;16
+Hesse;DEHE031;Fulda;"urban area";traffic;24;21
+Hesse;DEHE037;"Wiesbaden Ringkirche";"urban area";traffic;27;20
+Hesse;DEHE040;"Darmstadt Hügelstraße";"urban area";traffic;40;85
+Hesse;DEHE041;"Frankfurt Friedberger Landstraße";"urban area";traffic;43;100
+Hesse;DEHE049;"Kassel Fünffensterstraße";"urban area";traffic;36;56
+Hamburg;DEHH026;"Hamburg Stresemannstraße";"urban area";traffic;32;37
+Hamburg;DEHH070;"Hamburg Max-Brauer-Allee II (Straße)";"urban area";traffic;33;34
+"Mecklenburg-West Pomerania";DEMV002;Rostock;"urban area";traffic;21;11
+"Mecklenburg-West Pomerania";DEMV003;Neubrandenburg;"urban area";traffic;24;24
+"Mecklenburg-West Pomerania";DEMV005;Schwerin;"urban area";traffic;27;12
+"Mecklenburg-West Pomerania";DEMV006;Stralsund;"urban area";traffic;30;48
+"Lower Saxony";DENI008;"Braunschweig Verkehr_alt";"urban area";traffic;40;87
+"Lower Saxony";DENI048;"Hannover Verkehr";"urban area";traffic;43;98
+"North Rhine-Westphalia";DENW043;"Essen-Ost Steeler Straße";"urban area";traffic;30;42
+"North Rhine-Westphalia";DENW097;"Wuppertal Friedrich-Engels-Allee";"urban area";traffic;28;23
+"North Rhine-Westphalia";DENW099;"Aachen Kaiserplatz";"urban area";traffic;29;32
+"North Rhine-Westphalia";DENW100;"Mönchengladbach Düsseldorfer Straße";"urban area";traffic;24;19
+Rhineland-Palatinate;DERP010;Mainz-Parcusstraße;"urban area";traffic;38;66
+Rhineland-Palatinate;DERP018;Speyer-St.-Guido-Stifts-Platz;"urban area";traffic;28;28
+Rhineland-Palatinate;DERP020;Trier-Ostallee;"urban area";traffic;31;38
+Rhineland-Palatinate;DERP023;Worms-Hagenstraße;"urban area";traffic;31;41
+Rhineland-Palatinate;DERP024;Koblenz-Friedrich-Ebert-Ring;"urban area";traffic;24;13
+Rhineland-Palatinate;DERP029;Koblenz-Zentralplatz;"urban area";traffic;31;23
+Rhineland-Palatinate;DERP032;"Neuwied-Heddesdorfer Straße";"urban area";traffic;31;27
+Rhineland-Palatinate;DERP036;"Trier Kaiserstraße";"urban area";traffic;30;28
+Rhineland-Palatinate;DERP041;Ludwigshafen-Heinigstraße;"urban area";traffic;37;63
+Saxony;DESN002;Aue;"urban area";traffic;22;4
+Saxony;DESN006;Borna;"urban area";traffic;26;21
+Saxony;DESN020;Görlitz;"urban area";traffic;29;38
+Saxony;DESN025;Leipzig-Mitte;"urban area";traffic;32;45
+Saxony;DESN047;Zwickau;"urban area";traffic;25;17
+Saxony;DESN060;Chemnitz-Nord;"urban area";traffic;25;11
+Saxony;DESN061;Dresden-Nord;"urban area";traffic;32;35
+Saxony;DESN075;Plauen-Süd;"urban area";traffic;28;27
+Saxony;DESN077;"Leipzig Lützner Str.";"urban area";traffic;36;63
+Saxony-Anhalt;DEST057;Magdeburg/Südost;"urban area";traffic;29;44
+Saxony-Anhalt;DEST075;"Halle/Merseburger Strasse";"urban area";traffic;38;71
+Saxony-Anhalt;DEST076;Magdeburg/Damaschkeplatz;"urban area";traffic;33;46
+Saxony-Anhalt;DEST081;Weißenfels/Promenade;"urban area";traffic;26;20
+Saxony-Anhalt;DEST091;"Dessau Albrechtsplatz";"urban area";traffic;30;32
+Saxony-Anhalt;DEST092;"Wittenberg/Dessauer Strasse";"urban area";traffic;34;53
+Thuringia;DETH002;"Gera Berliner Str.";"urban area";traffic;31;45
+Thuringia;DETH021;"Mühlhausen Brunnenstr.";"urban area";traffic;32;48
+Thuringia;DETH032;Gotha;"urban area";traffic;29;32
+Thuringia;DETH039;"Weimar Sophienstiftsplatz";"urban area";traffic;32;54
+Thuringia;DETH043;"Erfurt Bergstr.";"urban area";traffic;42;111
+Thuringia;DETH072;"Suhl F.-König-Str";"urban area";traffic;28;21
+Baden-Württemberg;DEBW048;Ehingen;"urban area";industry;23;13
+Bavaria;DEBY027;"Kahl a. Main/Wasserturm";"urban area";industry;26;27
+Bavaria;DEBY055;Nürnberg/Olgastraße;"urban area";industry;33;49
+Hamburg;DEHH015;"Hamburg Veddel";"urban area";industry;28;33
+Hamburg;DEHH016;"Hamburg Billbrook";"urban area";industry;26;22
+"North Rhine-Westphalia";DENW102;Duisburg-Bruckhausen;"urban area";industry;46;129
+Rhineland-Palatinate;DERP003;Ludwigshafen-Mundenheim;"urban area";industry;25;16
+Saarland;DESL003;"Dillingen City";"urban area";industry;26;16
+Brandenburg;DEBB006;Cottbus-Süd;"urban area";background;28;31
+Brandenburg;DEBB021;Potsdam-Zentrum;"urban area";background;26;25
+Brandenburg;DEBB024;Senftenberg;"urban area";background;27;21
+Berlin;DEBE010;"Berlin Wedding";"urban area";background;29;39
+Berlin;DEBE034;"Berlin Neukölln";"urban area";background;30;40
+Baden-Württemberg;DEBW006;Mannheim-Mitte;"urban area";background;27;28
+Baden-Württemberg;DEBW007;Mannheim-Süd;"urban area";background;27;29
+Baden-Württemberg;DEBW009;Heidelberg;"urban area";background;24;23
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"urban area";background;26;23
+Baden-Württemberg;DEBW015;Heilbronn;"urban area";background;27;31
+Baden-Württemberg;DEBW019;Ulm;"urban area";background;25;19
+Baden-Württemberg;DEBW025;Esslingen;"urban area";background;27;21
+Baden-Württemberg;DEBW027;Reutlingen;"urban area";background;20;12
+Baden-Württemberg;DEBW028;Göppingen;"urban area";background;22;17
+Baden-Württemberg;DEBW032;Pforzheim-Mitte;"urban area";background;24;25
+Baden-Württemberg;DEBW035;Böblingen;"urban area";background;22;11
+Baden-Württemberg;DEBW038;Friedrichshafen;"urban area";background;22;19
+Baden-Württemberg;DEBW041;Rheinfelden;"urban area";background;23;17
+Baden-Württemberg;DEBW052;Konstanz;"urban area";background;24;21
+Baden-Württemberg;DEBW065;Ravensburg;"urban area";background;22;18
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"urban area";background;24;20
+Baden-Württemberg;DEBW084;Freiburg;"urban area";background;20;14
+Bavaria;DEBY007;Augsburg/Bourges-Platz;"urban area";background;32;45
+Bavaria;DEBY009;Bamberg/Löwenbrücke;"urban area";background;25;19
+Bavaria;DEBY015;Erlangen/Werner-von-Siemens-Straße;"urban area";background;29;31
+Bavaria;DEBY032;Kulmbach/Konrad-Adenauer-Straße;"urban area";background;26;22
+Bavaria;DEBY039;München/Lothstraße;"urban area";background;29;37
+Bavaria;DEBY052;Neu-Ulm/Gabelsbergerstraße;"urban area";background;33;50
+Bavaria;DEBY058;Nürnberg/Muggenhof;"urban area";background;28;32
+Bavaria;DEBY064;Regensburg/Isarstraße;"urban area";background;33;31
+Bavaria;DEBY068;Schweinfurt/Obertor;"urban area";background;33;47
+Bavaria;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"urban area";background;34;51
+Bremen;DEHB001;Bremen-Mitte;"urban area";background;24;14
+Bremen;DEHB004;Bremen-Nord;"urban area";background;23;10
+Bremen;DEHB005;Bremerhaven-Hansastraße;"urban area";background;22;9
+Hesse;DEHE001;Darmstadt;"urban area";background;28;31
+Hesse;DEHE005;Frankfurt-Höchst;"urban area";background;30;33
+Hesse;DEHE008;"Frankfurt Ost";"urban area";background;31;44
+Hesse;DEHE010;Gießen;"urban area";background;33;48
+Hesse;DEHE011;Hanau;"urban area";background;33;40
+Hesse;DEHE017;Offenbach;"urban area";background;27;27
+Hesse;DEHE018;Raunheim;"urban area";background;26;22
+Hesse;DEHE020;Wetzlar;"urban area";background;33;42
+Hesse;DEHE022;"Wiesbaden Süd";"urban area";background;29;35
+Hesse;DEHE030;Marburg;"urban area";background;25;25
+Hesse;DEHE032;Bebra;"urban area";background;28;25
+Hesse;DEHE044;Limburg;"urban area";background;32;42
+Hesse;DEHE045;Michelstadt;"urban area";background;22;13
+Hamburg;DEHH008;"Hamburg Sternschanze";"urban area";background;28;29
+Hamburg;DEHH033;"Hamburg Flughafen Nord";"urban area";background;23;14
+Hamburg;DEHH054;"HH Bergedorf";"urban area";background;23;18
+Hamburg;DEHH059;"Hamburg Wilhelmsburg";"urban area";background;23;19
+"Lower Saxony";DENI038;Osnabrück;"urban area";background;29;44
+"Lower Saxony";DENI054;Hannover;"urban area";background;29;41
+"North Rhine-Westphalia";DENW008;Dortmund-Eving;"urban area";background;29;42
+"North Rhine-Westphalia";DENW053;Köln-Chorweiler;"urban area";background;23;13
+"North Rhine-Westphalia";DENW067;Bielefeld-Ost;"urban area";background;26;31
+"North Rhine-Westphalia";DENW071;Düsseldorf-Lörick;"urban area";background;24;18
+Rhineland-Palatinate;DERP001;Ludwigshafen-Oppau;"urban area";background;25;27
+Rhineland-Palatinate;DERP002;Ludwigshafen-Mitte;"urban area";background;27;28
+Rhineland-Palatinate;DERP007;Mainz-Mombach;"urban area";background;23;14
+Rhineland-Palatinate;DERP008;Mainz-Goetheplatz;"urban area";background;25;22
+Rhineland-Palatinate;DERP009;Mainz-Zitadelle;"urban area";background;28;26
+Rhineland-Palatinate;DERP019;Kaiserslautern-Rathausplatz;"urban area";background;21;9
+Rhineland-Palatinate;DERP021;Neuwied-Hafenstraße;"urban area";background;23;10
+Rhineland-Palatinate;DERP022;"Bad Kreuznach-Bosenheimer Straße";"urban area";background;24;20
+Rhineland-Palatinate;DERP025;Wörth-Marktplatz;"urban area";background;23;15
+Rhineland-Palatinate;DERP042;"Pirmasens Schäferstr.";"urban area";background;26;12
+Saarland;DESL010;Saarbrücken-Burbach;"urban area";background;22;8
+Saarland;DESL012;Saarbrücken-City;"urban area";background;19;4
+Saarland;DESL017;"Völklingen-City Stadionstr.";"urban area";background;23;8
+Schleswig-Holstein;DESH021;"Kiel Schauenburger Str.";"urban area";background;22;15
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"urban area";background;25;25
+Saxony;DESN011;Chemnitz-Mitte;"urban area";background;24;18
+Saxony;DESN014;Dresden-Mitte;"urban area";background;27;28
+Saxony;DESN017;Freiberg;"urban area";background;22;8
+Saxony;DESN019;Glauchau;"urban area";background;33;32
+Saxony-Anhalt;DEST006;Magdeburg/Zentrum-Ost;"urban area";background;29;31
+Saxony-Anhalt;DEST011;Wernigerode/Bahnhof;"urban area";background;27;16
+Saxony-Anhalt;DEST014;Bitterfeld;"urban area";background;25;19
+Saxony-Anhalt;DEST063;Stendal;"urban area";background;27;20
+Saxony-Anhalt;DEST066;Wittenberg/Bahnstrasse;"urban area";background;27;35
+Thuringia;DETH005;Saalfeld;"urban area";background;29;41
+Thuringia;DETH007;"Rudolstadt Schwarzb.Ch.";"urban area";background;29;23
+Thuringia;DETH009;"Gera Friedericistr.";"urban area";background;32;44
+Thuringia;DETH011;"Altenburg Theaterplatz";"urban area";background;28;24
+Thuringia;DETH013;"Eisenach Werneburgstr.";"urban area";background;28;44
+Thuringia;DETH016;"Arnstadt Alter Friedhof";"urban area";background;25;11
+Thuringia;DETH017;"Apolda Busbahnhof";"urban area";background;30;32
+Thuringia;DETH018;Nordhausen;"urban area";background;30;36
+Thuringia;DETH019;"Erfurt Kartäuserstr.";"urban area";background;30;38
+Thuringia;DETH020;"Erfurt Krämpferstr.";"urban area";background;28;31
+Thuringia;DETH024;Ilmenau;"urban area";background;26;17
+Thuringia;DETH025;Meiningen;"urban area";background;24;16
+Thuringia;DETH036;"Greiz Mollbergstr.";"urban area";background;29;30
+Thuringia;DETH037;"Jena Schillergäßchen";"urban area";background;30;31
+Thuringia;DETH041;"Jena Dammstr.";"urban area";background;27;24
+Thuringia;DETH060;Zella-Mehlis;"urban area";background;26;22
+Thuringia;DETH066;"Pößneck Stadthalle";"urban area";background;31;39
+Berlin;DEBE045;"B Pankow-Blankenfelder Str.";"suburban area";traffic;33;56
+Baden-Württemberg;DEBW040;Waldshut;"suburban area";traffic;20;12
+Baden-Württemberg;DEBW106;Leonberg-BAB;"suburban area";traffic;24;20
+Brandenburg;DEBB026;Spremberg-Süd;"suburban area";industry;23;12
+Brandenburg;DEBB029;"Schwedt (Oder)";"suburban area";industry;24;22
+Brandenburg;DEBB030;Premnitz;"suburban area";industry;22;12
+Brandenburg;DEBB032;Eisenhüttenstadt;"suburban area";industry;27;29
+Baden-Württemberg;DEBW005;Mannheim-Nord;"suburban area";industry;24;20
+Baden-Württemberg;DEBW014;Stuttgart-Hafen;"suburban area";industry;25;20
+Baden-Württemberg;DEBW022;Kehl;"suburban area";industry;24;21
+Bavaria;DEBY024;Ingolstadt/Oberhaunstadt;"suburban area";industry;32;34
+"Lower Saxony";DENI053;Südoldenburg;"suburban area";industry;26;34
+"North Rhine-Westphalia";DENW037;Duisburg-Meiderich;"suburban area";industry;30;48
+Saxony-Anhalt;DEST015;Bitterfeld/Wolfen;"suburban area";industry;27;24
+Saxony-Anhalt;DEST080;Schkopau;"suburban area";industry;27;33
+Saxony-Anhalt;DEST090;Leuna;"suburban area";industry;25;24
+Brandenburg;DEBB001;"Burg (Spreewald)";"suburban area";background;26;14
+Brandenburg;DEBB009;Forst;"suburban area";background;28;32
+Brandenburg;DEBB028;Wittenberge,1993-2002;"suburban area";background;21;15
+Brandenburg;DEBB031;"Königs Wusterhausen,1993-2008";"suburban area";background;27;24
+Brandenburg;DEBB036;Luckenwalde;"suburban area";background;24;13
+Brandenburg;DEBB038;Prenzlau;"suburban area";background;24;20
+Brandenburg;DEBB042;"Frankfurt (Oder), 1997-2014";"suburban area";background;25;20
+Brandenburg;DEBB043;Luckau;"suburban area";background;25;24
+Brandenburg;DEBB048;Neuruppin;"suburban area";background;20;10
+Brandenburg;DEBB052;"Potsdam-Michendorfer Chaussee";"suburban area";background;23;14
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"suburban area";background;19;10
+Berlin;DEBE051;"Berlin Buch";"suburban area";background;25;23
+Baden-Württemberg;DEBW010;Wiesloch;"suburban area";background;22;17
+Baden-Württemberg;DEBW020;Rastatt;"suburban area";background;24;16
+Baden-Württemberg;DEBW021;Kehl-Süd;"suburban area";background;23;16
+Baden-Württemberg;DEBW023;"Weil am Rhein";"suburban area";background;21;13
+Baden-Württemberg;DEBW024;Ludwigsburg;"suburban area";background;24;21
+Baden-Württemberg;DEBW026;Plochingen;"suburban area";background;24;16
+Baden-Württemberg;DEBW029;Aalen;"suburban area";background;21;14
+Baden-Württemberg;DEBW034;Waiblingen;"suburban area";background;22;15
+Baden-Württemberg;DEBW037;Freudenstadt;"suburban area";background;13;0
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"suburban area";background;17;6
+Baden-Württemberg;DEBW042;Bernhausen;"suburban area";background;26;25
+Baden-Württemberg;DEBW044;Mosbach;"suburban area";background;22;17
+Baden-Württemberg;DEBW046;Biberach;"suburban area";background;20;6
+Baden-Württemberg;DEBW047;Calw;"suburban area";background;18;4
+Baden-Württemberg;DEBW050;Heidenheim;"suburban area";background;21;11
+Baden-Württemberg;DEBW053;Künzelsau;"suburban area";background;22;20
+Baden-Württemberg;DEBW054;Rottweil;"suburban area";background;18;2
+Baden-Württemberg;DEBW056;"Schwäbisch Hall";"suburban area";background;23;18
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"suburban area";background;21;16
+Baden-Württemberg;DEBW060;Tuttlingen;"suburban area";background;16;3
+Baden-Württemberg;DEBW073;Neuenburg;"suburban area";background;22;17
+Baden-Württemberg;DEBW076;Baden-Baden;"suburban area";background;19;12
+Baden-Württemberg;DEBW094;Isny;"suburban area";background;16;2
+Baden-Württemberg;DEBW102;"Bad Waldsee";"suburban area";background;18;11
+Baden-Württemberg;DEBW107;Tübingen;"suburban area";background;20;10
+Bavaria;DEBY002;Arzberg/Egerstraße;"suburban area";background;32;51
+Bavaria;DEBY004;"Kleinwallstadt/Hofstetter Straße";"suburban area";background;25;23
+Bavaria;DEBY005;Aschaffenburg/Bussardweg;"suburban area";background;25;23
+Bavaria;DEBY012;"Burghausen/Marktler Straße";"suburban area";background;32;27
+Bavaria;DEBY020;Hof/LfU;"suburban area";background;30;47
+Bavaria;DEBY030;"Saal a.d. Donau/Regensburger Straße";"suburban area";background;27;23
+Bavaria;DEBY031;"Kempten (Allgäu)/Westendstraße";"suburban area";background;26;25
+Bavaria;DEBY034;"Lauf a.d. Pegnitz/Albertistraße";"suburban area";background;26;19
+Bavaria;DEBY062;"Regen/Bodenmaiser Straße";"suburban area";background;26;20
+Bavaria;DEBY067;"Schwandorf/Wackersdorfer Straße";"suburban area";background;32;46
+Bavaria;DEBY069;Selb/Jean-Paul-Straße;"suburban area";background;26;13
+Bavaria;DEBY088;Trostberg/Schwimmbadstraße;"suburban area";background;26;27
+Bavaria;DEBY089;München/Johanneskirchen;"suburban area";background;29;37
+Bavaria;DEBY093;Sulzbach-Rosenberg/Lohe;"suburban area";background;34;58
+Bavaria;DEBY099;Augsburg/LfU;"suburban area";background;26;26
+Hesse;DEHE019;Viernheim;"suburban area";background;25;29
+Hesse;DEHE033;Borken;"suburban area";background;27;28
+Hamburg;DEHH021;"Hamburg Tatenberg";"suburban area";background;21;17
+"Mecklenburg-West Pomerania";DEMV007;Rostock-Stuthof;"suburban area";background;20;10
+"Mecklenburg-West Pomerania";DEMV018;Zarrentin;"suburban area";background;18;8
+"Lower Saxony";DENI011;Braunschweig;"suburban area";background;26;36
+"Lower Saxony";DENI016;Oker/Harlingerode;"suburban area";background;23;30
+"Lower Saxony";DENI020;Wolfsburg;"suburban area";background;28;32
+"Lower Saxony";DENI028;Eichsfeld;"suburban area";background;24;29
+"Lower Saxony";DENI029;Ostfriesland;"suburban area";background;27;34
+"Lower Saxony";DENI041;Weserbergland;"suburban area";background;30;42
+"Lower Saxony";DENI042;Göttingen;"suburban area";background;22;14
+"Lower Saxony";DENI043;Emsland;"suburban area";background;29;42
+"Lower Saxony";DENI052;Allertal;"suburban area";background;25;25
+"Lower Saxony";DENI062;"Lüneburger Heide";"suburban area";background;28;43
+"North Rhine-Westphalia";DENW022;Gelsenkirchen-Bismarck;"suburban area";background;29;45
+"North Rhine-Westphalia";DENW048;Düsseldorf-Reisholz;"suburban area";background;26;18
+"North Rhine-Westphalia";DENW062;Bonn-Auerberg;"suburban area";background;24;17
+Saarland;DESL013;Saarlouis-Fraulautern;"suburban area";background;21;10
+Saxony;DESN059;Leipzig-West;"suburban area";background;22;13
+Saxony-Anhalt;DEST002;Burg;"suburban area";background;27;28
+Saxony-Anhalt;DEST029;Bernburg;"suburban area";background;27;21
+Saxony-Anhalt;DEST052;Hettstedt;"suburban area";background;24;15
+Saxony-Anhalt;DEST072;Halle/Ost;"suburban area";background;28;31
+UBA;DEUB016;Gittrup;"rural area";traffic;17;3
+Baden-Württemberg;DEBW103;Odenwald;"rural area";background;15;2
+Hesse;DEHE046;"Bad Arolsen";"rural area";background;21;14
+"Mecklenburg-West Pomerania";DEMV004;Gülzow;"rural area";background;19;18
+"Mecklenburg-West Pomerania";DEMV012;Löcknitz;"rural area";background;18;11
+"Mecklenburg-West Pomerania";DEMV017;Göhlen;"rural area";background;20;9
+"Lower Saxony";DENI019;Solling;"rural area";background;16;9
+"Lower Saxony";DENI031;Jadebusen;"rural area";background;20;16
+"Lower Saxony";DENI051;Wurmberg;"rural area";background;16;10
+"Lower Saxony";DENI058;"Ostfries. Inseln";"rural area";background;30;42
+"Lower Saxony";DENI059;Elbmündung;"rural area";background;26;32
+"Lower Saxony";DENI060;Wendland;"rural area";background;26;39
+"Lower Saxony";DENI063;"Altes Land";"rural area";background;26;37
+Rhineland-Palatinate;DERP013;Westpfalz-Waldmohr;"rural area";background;18;3
+Rhineland-Palatinate;DERP014;Hunsrück-Leisel;"rural area";background;14;2
+Rhineland-Palatinate;DERP015;"Westeifel Wascheid";"rural area";background;13;0
+Rhineland-Palatinate;DERP016;Westerwald-Herdorf;"rural area";background;16;3
+Rhineland-Palatinate;DERP017;Pfälzerwald-Hortenkopf;"rural area";background;15;1
+Rhineland-Palatinate;DERP028;Westerwald-Neuhäusel;"rural area";background;15;1
+UBA;DEUB001;Westerland;"rural area";background;20;9
+UBA;DEUB002;Deuselbach;"rural area";background;16;3
+UBA;DEUB003;Brotjacklriegel;"rural area";background;12;4
+UBA;DEUB005;Waldhof;"rural area";background;18;10
+UBA;DEUB007;Bassum;"rural area";background;22;7
+UBA;DEUB017;Regnitzlosau;"rural area";background;15;0
+UBA;DEUB026;Ueckermünde;"rural area";background;18;9
+UBA;DEUB028;Zingst;"rural area";background;19;11
+UBA;DEUB029;Schmücke;"rural area";background;12;1
+UBA;DEUB031;Lückendorf;"rural area";background;20;4
+UBA;DEUB032;Leinefelde;"rural area";background;19;5
+UBA;DEUB033;Melpitz;"rural area";background;20;6
+UBA;DEUB035;Lehnmühle;"rural area";background;18;1
+UBA;DEUB038;Aukrug;"rural area";background;24;20
+UBA;DEUB039;Falkenberg;"rural area";background;19;8
+UBA;DEUB040;Schorfheide;"rural area";background;18;13
+UBA;DEUB042;Öhringen;"rural area";background;24;20
+Saarland;DESL008;Nonnweiler;"rural secluded";background;9.4;0
+Thuringia;DETH061;Hummelshain;"rural secluded";background;19;5
+Thuringia;DETH065;"Oberpreilipp b. Rudolstadt";"rural regional";industry;27;16
+Thuringia;DETH067;Unterwellenborn;"rural regional";industry;23;9
+Brandenburg;DEBB051;Waldsieversdorf;"rural regional";background;20;13
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"rural regional";background;22;16
+Brandenburg;DEBB056;Paulinenaue;"rural regional";background;21;16
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"rural regional";background;11;0
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"rural regional";background;15;0
+Hesse;DEHE048;Lampertheim;"rural regional";background;26;30
+Schleswig-Holstein;DESH001;Altendeich;"rural regional";background;23;17
+Saxony;DESN052;Zinnwald;"rural regional";background;14;1
+Saxony;DESN074;Schwartenberg;"rural regional";background;14;0
+Saxony-Anhalt;DEST089;Zartau/Waldstation;"rural regional";background;18;10
+Thuringia;DETH026;Dreißigacker;"rural regional";background;24;11
+UBA;DEUB004;Schauinsland;"rural regional";background;9.9;0
+UBA;DEUB030;Neuglobsow;"rural regional";background;16;8
+Saxony-Anhalt;DEST068;Pouch;"rural near town";industry;28;33
+Berlin;DEBE027;"Berlin Marienfelde";"rural near town";background;25;24
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"rural near town";background;24;17
+Berlin;DEBE056;"Berlin Friedrichshagen";"rural near town";background;25;22
+Berlin;DEBE062;"Berlin Frohnau (3.5 m)";"rural near town";background;25;28
+Baden-Württemberg;DEBW004;Eggenstein;"rural near town";background;23;17
+Bavaria;DEBY047;"Naila/Selbitzer Berg";"rural near town";background;23;14
+Hesse;DEHE034;Nidda;"rural near town";background;29;40
+Hesse;DEHE043;Riedstadt;"rural near town";background;30;33
+Saxony;DESN051;Radebeul-Wahnsdorf;"rural near town";background;21;8
+
+"* Pursuant to § 20 or § 21 of Directive 2008/50/EC, exceedances of the PM₁₀ daily mean limit value due to natural sources or gritted sand or salt may be deducted by winter road clearance services."
+
+"Source: German Environment Agency, https://www.umweltbundesamt.de/en/data/air/air-data/annual-tabulation (Status: 2012-03-26). All times are given in the time valid at the time of measurement (CET or CEST)."
